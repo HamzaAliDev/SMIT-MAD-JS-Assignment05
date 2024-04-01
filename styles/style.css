@@ -1,0 +1,17 @@
+.header-back , footer {
+    background-color: #041f43 !important;
+
+}
+
+main{
+    min-height: calc(100vh - 90px);
+    
+}
+
+.original-border{
+    height: 88px;
+}
+.output-border{
+    min-height : 263px;
+
+}
