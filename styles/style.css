@@ -10,6 +10,7 @@ main{
 
 .original-border{
     height: 88px;
+    background-color: #041f43
 }
 .output-border{
     min-height : 263px;
